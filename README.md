@@ -4,11 +4,9 @@
 
 您可以到 [52ABP 文档中心](https://www.52abp.com/wiki/index) 进行浏览
 
-本仓库是 52ABP 整理或者 写的文字和电子书存档。以及收集一些有价值和有意义的文档。
-
 52ABP 涉及到的文档信息库。
 
-## 从零开始学 ASP.NET Core MVC 电子书目录
+- src 目录下为 52ABP 的相关文档
 
 在线查看地址： [https://www.52abp.com/Wiki/mvc/latest/1.Intro](https://www.52abp.com/Wiki/mvc/latest/1.Intro) </br>
 
@@ -28,8 +26,8 @@ src/docs-nav.json 为文档导航菜单
 
 ## 视频专区
 
-> 【收费】腾讯课堂:[https://ke.qq.com/course/392589?tuin=2522cdf3](https://ke.qq.com/course/392589?tuin=2522cdf3) </br>
-> 【免费】youtube 视频专区：[http://t.cn/Ei0F2EB](http://t.cn/Ei0F2EB) </br>
+> 【收费】腾讯课堂:[[https://ke.qq.com/course/392589?tuin=2522cdf3](https://ke.qq.com/course/392589?tuin=2522cdf3)](<[https://ke.qq.com/course/392589?tuin=2522cdf3](https://ke.qq.com/course/392589?tuin=2522cdf3)>) </br>
+> 【免费】youtube 视频专区：[[http://t.cn/Ei0F2EB](http://t.cn/Ei0F2EB)](<[http://t.cn/Ei0F2EB](http://t.cn/Ei0F2EB)>) </br>
 > 【免费】B 站: [https://space.bilibili.com/2954671](https://space.bilibili.com/2954671) </br>
 > 免费的更新慢，收费的更新快，仅此而已。就这样。 </br>
 
@@ -42,7 +40,6 @@ src/docs-nav.json 为文档导航菜单
 <img src="https://www.52abp.com/imgs/money-QR/wechatpay.jpg"  width="230">
 </p>
 
-
 ## 关注微信公众号：角落的白板报
 
-![公众号：角落的白板报](https://upload-images.jianshu.io/upload_images/1979022-f19c505c18160c16.png)
+![公众号：角落的白板报](images/jiaoluowechat.png)
